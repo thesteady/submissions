@@ -47,7 +47,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Shane Rogers: 
   * Extensions: 
-* Laura Steadman: 
+* Laura Steadman: git://github.com/thesteady/gschool-event-reporter.git
   * Extensions: 
 * Geoffrey Schorkopf: 
   * Extensions: 
