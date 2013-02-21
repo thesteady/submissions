@@ -41,7 +41,7 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Laura Steadman & Elaine Tai
-  * Project URL: 
+  * Project URL: git://github.com/lalalainexd/sales_engine.git
   * Extensions: 
 * Logan Sears & Chelsea Komlo
   * Project URL: 
