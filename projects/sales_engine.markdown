@@ -41,7 +41,7 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: git://github.com/jemaddux/sales_engine.git
   * Extensions: 
 * Laura Steadman & Elaine Tai
-  * Project URL: 
+  * Project URL: https://github.com/thesteady/submissions.git
   * Extensions: 
 * Logan Sears & Chelsea Komlo
   * Project URL: 
