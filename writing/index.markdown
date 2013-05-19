@@ -10,7 +10,7 @@ Add the "live" URL for your class blog.
 * Paul Blackwell: http://paulblackwell.herokuapp.com/
 * Phil Battos: http://phliptos.herokuapp.com/
 * Erin Drummond: http://ebdrummond.com/
-* James Denman: http://xacaxulu.herokuapp.com
+* James Denman: http://xacaxulu-blog.herokuapp.com/
 * Jennifer Eliuk: http://eliuk-gschool-blog.herokuapp.com
 * Danny Garcia: http://dannygarcia.herokuapp.com/
 * Kareem Grant: http://gthang.herokuapp.com/
@@ -26,7 +26,7 @@ Add the "live" URL for your class blog.
 * Geoffrey Schorkopf: http://geoffsblog.herokuapp.com/
 * Kyle Suss: http://kylesuss.com/
 * Logan Sears: http://logan-gschool.herokuapp.com/
-* Bradley Sheehan: http://thawing-depths-5581.herokuapp.com/
+* Bradley Sheehan: http://bradsheehan.herokuapp.com
 * Elaine Tai: http://lalalainexd-blog.herokuapp.com/
 * Jorge Tellez: http://novohispanoblog.herokuapp.com/
 * Raphael Weiner: http://raphaelio.herokuapp.com/
